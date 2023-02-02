@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "CleverTap.h"
+#import <CleverTapSDK/CleverTap.h>
 
 @interface CleverTapReactManager : NSObject
 
